@@ -1,5 +1,5 @@
 # AppleSurvival
-First Unit project.
+First Unity project.
 
 Platformer game made with Unity.
 ## For Gameplay
